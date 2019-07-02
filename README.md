@@ -1,2 +1,0 @@
-# linksucre.github.io
-blog
